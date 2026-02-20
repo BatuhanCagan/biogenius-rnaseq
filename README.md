@@ -1,7 +1,7 @@
 <h1 align="center">🧬 BioGenius: End-to-End RNA-Seq Differential Expression Analyzer</h1>
 
 <p align="center">
-  <a href="https://your-app-link.streamlit.app" target="_blank">
+  <a href="https://biogenius-rnaseq-pkapp9c8phzegtxvrnnr3yf.streamlit.app" target="_blank">
     <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Streamlit App">
   </a>
   <a href="https://www.python.org/downloads/" target="_blank">
