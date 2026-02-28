@@ -43,7 +43,7 @@
 <h2>🚀 Quick Start</h2>
 
 <h3>1. Clone the repository</h3>
-<pre><code>git clone https://github.com/your-username/biogenius-rnaseq.git
+<pre><code>git clone https://github.com/BatuhanCagan/biogenius-rnaseq.git
 cd biogenius-rnaseq</code></pre>
 
 <h3>2. Install dependencies</h3>
@@ -51,5 +51,6 @@ cd biogenius-rnaseq</code></pre>
 
 <h3>3. Run the application</h3>
 <pre><code>streamlit run app.py</code></pre>
+
 
 
